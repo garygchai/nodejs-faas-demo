@@ -10,4 +10,5 @@ $ cd executors/helloWorld && npm i
 # Start
 ```
 $ npm start
+$ curl http://localhost:8888/exec/helloWorld
 ```
